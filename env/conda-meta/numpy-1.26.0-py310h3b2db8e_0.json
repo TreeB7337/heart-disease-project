@@ -1,0 +1,38 @@
+{
+  "build": "py310h3b2db8e_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "blas * openblas",
+    "libcxx >=14.0.6",
+    "libopenblas >=0.3.21,<1.0a0",
+    "numpy-base 1.26.0 py310ha9811e2_0",
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "/Users/sarve/miniconda3/pkgs/numpy-1.26.0-py310h3b2db8e_0",
+  "files": [],
+  "fn": "numpy-1.26.0-py310h3b2db8e_0.conda",
+  "legacy_bz2_md5": "0d387b30c16c06ad842c0a74e2a79f15",
+  "legacy_bz2_size": 10380,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/sarve/miniconda3/pkgs/numpy-1.26.0-py310h3b2db8e_0",
+    "type": 1
+  },
+  "md5": "d4145d5657e5707c9b3d1687a248f125",
+  "name": "numpy",
+  "package_tarball_full_path": "/Users/sarve/miniconda3/pkgs/numpy-1.26.0-py310h3b2db8e_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "numpy==1.26.0=py310h3b2db8e_0",
+  "sha256": "063f4ab3380d6f9addd709c4a3b6b705b2d62ff0f92fd96cb355e41f7275716f",
+  "size": 10964,
+  "subdir": "osx-arm64",
+  "timestamp": 1695831144544,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/numpy-1.26.0-py310h3b2db8e_0.conda",
+  "version": "1.26.0"
+}
